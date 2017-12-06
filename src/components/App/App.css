@@ -1,0 +1,47 @@
+#app {
+  background: gainsboro;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.done {
+  text-decoration: line-through;
+  color: grey;
+}
+
+.heading {
+  text-align: center;
+  margin-bottom: 50px;
+  font-size: 5em;
+}
+
+#add-button {
+  color: azure;
+  background-color: lightblue;
+  border: black
+}
+
+#list {
+  margin: 30px;
+  font-size: 2em;
+}
+
+#filter {
+  font-size: 2em;
+  color: azure;
+  background-color: lightblue;
+}
+
+#clear {
+  float: right;
+  background-color: lightblue;
+  color: azure;
+  font-size: 2em;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  border: thin black;
+}
